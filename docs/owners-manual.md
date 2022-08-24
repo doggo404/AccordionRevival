@@ -365,6 +365,7 @@ The _Piano Accordion Owner’s Manual & Buyer’s Guide_ contains all you need t
 &nbsp;
 ## Chapter 10. Weight
 &nbsp;
+
 Smaller accordions tend to weigh less, so you might want a smaller accordion just for its lighter weight, especially if you play standing up. Standard full-size 4/5 accordions usually weigh between 22 and 28 pounds, while ladies'-size 3/4 accordions generally weigh between 16 and 20 pounds. The weight difference can be significant if you play standing or strolling for long periods. If you always sit down to play, the accordion rests on your lap, making instrument weight much less of an issue.
 
 Naturally, 2-reed accordions tend to be lighter than 3-reed accordions, which in turn tend to be lighter than 4-reed accordions. However, this is not always the case, so you should actually compare the weights.
