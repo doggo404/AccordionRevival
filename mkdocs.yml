@@ -1,0 +1,16 @@
+site_name: Accordion Revival
+
+repo_url: "https://github.com/doggo404/AccordionRevival"
+repo_name: "GitHub"
+edit_uri: "blob/master/"
+
+
+markdown_extensions:
+  - attr_list
+  - codehilite
+  
+theme:
+    name: null
+    custom_dir: 'custom_theme/'
+    static_templates:
+            - 404.html
