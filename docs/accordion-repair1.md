@@ -582,7 +582,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Sticking bass buttons**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Bent piston | Straighten the piston.|
 |Broken slotted wooden guide (usually at screw holes) | Glue or remove the chip, file or sand the slot clean.|
 |Lint between the piston & slotted wooden guide | Clean the piston and the slot.|
@@ -595,7 +595,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Bass note sounds after button returns **
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Friction between cam & follower due to worn metal on each | Sand & polish the cam & follower.  
 |Friction between pipes due to grime or too tight restraints | Clean pipes or loosen restraints.  
 |Bent pipe | Straighten the pipe.|  
@@ -612,7 +612,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Treble key sticks down**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |High friction on spindle from corrosion or lint | Remove and clean the spindle and the key.|
 |Warped wooden key rubbing on wooden guide beneath it | Sand the wooden key and/or its guide to operate freely.|
 |Bent aluminum key rubbing on aluminum guide slot | Bend the aluminum tab on the bottom of the key to center in the slot.|
@@ -625,7 +625,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Treble note sounds after key returns**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Pallet misaligned with ports | Bend the key rod to center the pallet over its ports. Also, re-valve the pallet.|
 |Pallet out of level | Twist and/or bend the key rod to level the pallet. Then re-level the key.|  
 |Key rod sagging due to worn spindle bore in wooden key | 1) Ream the spindle bore in the offending key to fit the outside diameter of brass tubing which has an inside diameter to fit the original spindle and install a piece of that tubing as a bushing in the key, or|
@@ -640,7 +640,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Weak sounding note**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Leather anchored too tightly | Replace the leather with less glued anchorage.|
 |Leather too stiff for small reed | Replace the leather with a thinner leather or mylar reed valve (ventillo).|
 |Slide partially closed | Adjust or repair the slide switch linkage.|
@@ -656,7 +656,7 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Silent reed**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Foreign matter lodged between the reed tongue and its vent | Clean the reed tongue & vent with air, a brush, or a .0015" feeler gauge.|
 |Broken reed tongue | Replace the reed.|
 |Reed tongue wandered off-center in its vent | Center the tongue, reset the rivet.|
@@ -669,10 +669,38 @@ Bass terminology: The button is on the end of a piston which has pegs or tabs th
 **Slow reed (requires more air)**
 
 |Problem/Possible causes|Remedies|
-| :--- | :--- |
+|---|---|
 |Excessive tip clearance | Voice the reed (adjust its tip clearance).|
 |Insufficient tip elevation (reed is close to choking) | Voice the reed (adjust its tip clearance).|
 |Excessive side clearance between the reed tongue and its vent | Replace the reed.|
 |Arched reed tongue, bent by excessive tuning pressure | Straighten the reed tongue or replace the reed.|
 |Slide partially closed | Adjust slide switch linkage.|
 |Valve not opening far enough | Set deeper key action or convert to compound levers.|
+
+---
+
+**Reed out of tune**
+
+|Problem/Possible causes|Remedies|
+|---|---|
+|Missing or inoperative leather on opposite side of the reed plate |Replace the leather.|
+|Missing or inoperative leather on the near side of the reed plate |Replace the leather.|
+|Grime on the reed tongue |Clean the reed tongue.|
+|Rust on the reed tongue |Replace the reed, or remove the rust and tune the reed.|
+|Reed tongue cracked |Replace the reed.|
+|Lead weight on reed tongue deteriorating |Replace the reed.|
+|Slide partially closed |Adjust the slide switch linkage.|
+|Reed out of tune for unknown reason |Tune the reed.|
+|Reed requires frequent retuning |Replace the reed.|
+|Reed goes flat under pressure |Reset the rivet|
+
+---
+
+**Warbling reed (one reed sounding)**
+
+|Problem/Possible causes|Remedies|
+|---|---|
+|Arched leather |Replace the leather.|
+|Reed loose on the reed block |Re-wax the reed.|
+
+---
