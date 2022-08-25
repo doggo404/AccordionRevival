@@ -897,7 +897,7 @@ For more discussion of the relative merits of mylar ventilli versus leather reed
 ---  
 
 &nbsp;
-##finding air leaks  
+##Finding air leaks  
 &nbsp;
 
 Most old accordions leak air somewhere, either through screw holes or cracks in the cabinet, or between the cabinet and the foundation plate, or through one of the bellows gaskets, or around one or more of the 41 treble valves and 24 bass valves, or through the switch linkage, or through the bellows themselves. Sometimes missing or broken reeds cause significant air leaks. Loose reed blocks can also waste a lot of air. Bad leathers can also increase air consumption. There are lots of possible sources of leaks, and a few small leaks can add up to a significant loss of air and accordion performance. Air leakage can make an accordion difficult to play.
