@@ -1,0 +1,1 @@
+function switchTheme(){const t=document.documentElement.classList.contains("dark");localStorage.setItem("theme",t?"light":"dark"),document.documentElement.classList.toggle("dark")}"dark"===localStorage.getItem("theme")&&document.documentElement.classList.add("dark");
